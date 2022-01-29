@@ -1,4 +1,6 @@
 # css-table
-Tablo tasarımında kullanılan temel etiketler <table>, <tr> ve <td>'dir.
- <td> etiketi ise tablonun "sütun"unu belirtir.
- <th> Açılımı table header "tablo başlığı" anlamına gelir. 
+Tablo tasarımında kullanılan temel etiketler
+'<table>' '<td>'
+ '<tr>' satır
+' <td>' etiketi tablonun "sütun"unu belirtir.
+ '<th>' Açılımı table header "tablo başlığı" anlamına gelir. 
